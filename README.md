@@ -1,4 +1,4 @@
-# Advanced C Project: Contact Management Application
+# C Project: Socket and Data Structures
 
 ## Description
 
